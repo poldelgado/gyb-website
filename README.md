@@ -1,5 +1,5 @@
 # G&B Website
-Proyecto destinado a la creación y mantenimiento del sitio web del G&G MTB Pre Team.
+Proyecto destinado a la creación y mantenimiento del sitio web del G&B MTB PreTeam.
 
 ## Organización del Repositorio
 * Branch 'master' destinado a mantener el código de la versión en producción.
